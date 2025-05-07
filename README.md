@@ -2,7 +2,7 @@
 
 ## 👋Welcome to my Github
 
-Personal site built with GitHub Pages. Documenting my learning path in quant finance and programming.
+Personal site built with GitHub Pages. Documenting my learning path in quant trading and programming.
 
 // I´m Building the skills to become a Quant Trader
  while (!masteredQuantTrading) {
@@ -14,7 +14,7 @@ Personal site built with GitHub Pages. Documenting my learning path in quant fin
 
 # 🧠 About Me
 
-🎓I´m a Computer Engineering student at **UNAM**, combinig code, math and markets to build my future un quantitative finance.
+🎓I´m a Computer Engineering student at **UNAM**, combinig code, math and markets to build my future in quant trading.
 
 🚀 Currently focused on:
 - Data analisis & algorithmic trading strategies.
